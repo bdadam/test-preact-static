@@ -1,0 +1,12 @@
+{
+  "name": "test-preact-static",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bdadam/test-preact-static.git",
+  "author": "Adam <me@bdadam.com>",
+  "license": "MIT",
+  "dependencies": {
+    "preact": "^10.5.13",
+    "preact-render-to-string": "^5.1.19"
+  }
+}
